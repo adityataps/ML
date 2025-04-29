@@ -1,2 +1,2 @@
-# sandbox
-ML Sandbox
+# ML
+Collection of ML projects.

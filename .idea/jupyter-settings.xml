@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="&amp;h4@!^94v65*e14@#O&amp;T" />
+          <option name="urlString" value="https://jupyter.homelab.local/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="&amp;h4@!^94v65*e14@#O&amp;T" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/ML.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="argv" value="--ip=0.0.0.0 --port=8888 --allow-root " />
+              <option name="managed" value="true" />
+              <option name="sdkName" value="torch-gpu" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
